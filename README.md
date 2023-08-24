@@ -107,4 +107,4 @@ To analyze a database of 1000 sample projects to uncover any hidden trends
 	Lower Outlier
 	Upper Outlier
 
-3. Summarize the statistical analysis report in the same word document along with written analysis report.
+3. Summarized the statistical analysis report in the same word document along with written analysis report.
