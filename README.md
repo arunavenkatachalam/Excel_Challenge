@@ -1,6 +1,4 @@
-# Module1
- 
-# Challenge
+# Excel Challenge
 
 # GOAL
 
