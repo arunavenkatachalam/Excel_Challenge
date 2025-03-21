@@ -1,8 +1,6 @@
-# Excel Challenge
-
 # GOAL
 
-To analyze a database of 1000 sample projects to uncover any hidden trends
+To analyze a database of 1000 sample projects to uncover any hidden trends using Excel.
 
 # Change Log
 
